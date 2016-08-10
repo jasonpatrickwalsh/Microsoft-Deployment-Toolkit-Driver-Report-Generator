@@ -10,4 +10,4 @@ _______________READ ME___________________
 2. Run DriverReporter.exe
 3. Open DriverReport.html
 
-Note: DriverReport uses an open-source javascript library to allow sorting. This is not supported in Internet Explorer.
+Makes use of this sorting framework: http://www.kryogenix.org/code/browser/sorttable/
